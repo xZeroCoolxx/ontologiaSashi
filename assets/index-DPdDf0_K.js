@@ -93,14 +93,14 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     margin: auto;
     margin-top: 20px;
     width: 200px;
-`;const F$=()=>b.jsxs(D$,{children:[b.jsxs(L$,{children:[b.jsx("h1",{style:M$,children:"Dentistas De Confianza De Tijuana"}),b.jsx("p",{style:z$,children:"Con la confianza de su comunidad, brindamos el tratamiento dental que necesita para una sonrisa más saludable."}),b.jsx(B$,{children:"Programe Su Visita"})]}),b.jsx(I$,{src:"https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"})]});let W$=dn.div`
+`,F$={color:"#333333",fontWeight:"500",marginTop:"15px"};const W$=()=>b.jsxs(D$,{children:[b.jsxs(L$,{children:[b.jsx("h1",{style:M$,children:"Dentistas De Confianza De Tijuana"}),b.jsx("p",{style:z$,children:"Con la confianza de su comunidad, brindamos el tratamiento dental que necesita para una sonrisa más saludable."}),b.jsx(B$,{children:"Programe Su Visita"}),b.jsx("p",{style:F$,children:"123-456-7890"})]}),b.jsx(I$,{src:"https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"})]});let U$=dn.div`
     background-color: #000022;
     color: #F7F7F7;
     font-size: 16px;
     font-weight: 500;
     padding-top: 15px;
     text-align: center;
-`,U$={textDecoration:"underline",color:"#2966ff",cursor:"pointer"};const H$=()=>b.jsxs(W$,{children:["¡Aprovecha al máximo tus beneficios dentales!",b.jsx("br",{}),b.jsx("a",{style:U$,children:"¡Programe su visita hoy!"})]});let V$=dn.div`
+`,H$={textDecoration:"underline",color:"#2966ff",cursor:"pointer"};const V$=()=>b.jsxs(U$,{children:["¡Aprovecha al máximo tus beneficios dentales!",b.jsx("br",{}),b.jsx("a",{style:H$,children:"¡Programe su visita hoy!"})]});let K$=dn.div`
     background-color: #3a606e;
     color: #F7F7F7;
     font-size: 14px;
@@ -110,4 +110,4 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     top: 0;
     text-align: center;
     z-index: 1000;  
-`,K$={};const G$=()=>b.jsxs(V$,{children:[b.jsx(j$,{style:K$}),"1234 Mission Center Rd Ste 500, San Diego, CA 92108"]});hg(document.getElementById("root")).render(b.jsxs(S.StrictMode,{children:[b.jsx(H$,{}),b.jsx(G$,{}),b.jsx(mk,{}),b.jsx(F$,{})]}));
+`,G$={};const Q$=()=>b.jsxs(K$,{children:[b.jsx(j$,{style:G$}),"1234 Mission Center Rd Ste 500, San Diego, CA 92108"]});hg(document.getElementById("root")).render(b.jsxs(S.StrictMode,{children:[b.jsx(V$,{}),b.jsx(Q$,{}),b.jsx(mk,{}),b.jsx(W$,{})]}));
