@@ -102,7 +102,7 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     border-bottom: solid; */
     display: flex;
     flex-direction: column;
-    height: 600px;
+    height: 400px;
     margin-top: 50px;
 `,V2=tt.div`
     align-items: center;
