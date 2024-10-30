@@ -98,9 +98,11 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     width: 200px;
 `,W2={color:"#333333",fontWeight:"500",marginTop:"15px"},U2=pt.div`
     align-items: center;
+    border-color: #333333;
+    border-bottom: solid;
     display: flex;
     flex-direction: column;
-    height: 600px;
+    height: 300px;
     margin-top: 50px;
 `,H2=pt.div`
     align-items: center;
