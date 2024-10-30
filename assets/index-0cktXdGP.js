@@ -121,8 +121,9 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     font-size: 16px;
     font-weight: 500;
     padding-top: 15px;
+    padding-bottom: 4px;
     text-align: center;
-`,Z2={backgroundColor:"#000052",textDecoration:"underline",color:"#2966ff",cursor:"pointer"};const q2=()=>b.jsxs(X2,{children:["¡Aprovecha al máximo tus beneficios dentales!",b.jsx("br",{}),b.jsx("a",{style:Z2,children:"¡Programe su visita hoy!"})]});let J2=Re.div`
+`,Z2={backgroundColor:"#000052",textDecoration:"underline",color:"#00c49a",cursor:"pointer"};const q2=()=>b.jsxs(X2,{children:["¡Aprovecha al máximo tus beneficios dentales!",b.jsx("br",{}),b.jsx("a",{style:Z2,children:"¡Programe su visita hoy!"})]});let J2=Re.div`
     background-color: #3a606e;
     color: #F7F7F7;
     font-size: 14px;
