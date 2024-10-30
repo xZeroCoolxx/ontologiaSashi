@@ -116,7 +116,7 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     margin-top: 20px;
     width: 90%;
 `;const Y2=()=>b.jsxs(M2,{children:[b.jsxs(z2,{children:[b.jsx("h1",{style:B2,children:"Dentistas De Confianza De Tijuana"}),b.jsx("p",{style:F2,children:"Con la confianza de su comunidad, brindamos el tratamiento dental que necesita para una sonrisa más saludable."}),b.jsx(W2,{children:"Programe Su Visita"}),b.jsxs("p",{style:U2,children:[b.jsx(D2,{}),"123-456-7890"]})]}),b.jsx(L2,{src:"https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}),b.jsxs(H2,{children:[b.jsxs(V2,{children:[b.jsx("img",{style:K2,src:"https://plus.unsplash.com/premium_photo-1664475450083-5c9eef17a191?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}),b.jsx(G2,{children:"Odontologa Sashi"})]}),b.jsx(Q2,{children:'"Mi enfoque como profesional de la salud es ver la salud bucal de mis pacientes como una parte integral de su bienestar general. Me dedico a educar a mis pacientes y a utilizar técnicas dentales modernas en un entorno afectuoso y compasivo para garantizar la mejor experiencia dental posible."'})]})]});let X2=Re.div`
-    background-color: #000022;
+    background-color: #000052;
     color: #F7F7F7;
     font-size: 16px;
     font-weight: 500;
