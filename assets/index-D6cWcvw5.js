@@ -103,7 +103,7 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     border-bottom: solid; */
     display: flex;
     flex-direction: column;
-    height: 400px;
+    height: 325px;
     margin-top: 50px;
 `,V2=Re.div`
     align-items: center;
@@ -142,10 +142,10 @@ object-assign
     width: 90%;
     margin: auto;
     margin-top: 30px;
-`;const c$=()=>b.jsx(u$,{children:b.jsx(l$,{url:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13430.028671792063!2d-117.14166701876597!3d32.699148489003534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9530bfa457471%3A0xc0c0d967e82d185c!2sJack%20in%20the%20Box!5e0!3m2!1sen!2sus!4v1730253946549!5m2!1sen!2sus",width:"100%",height:"400px",id:"myId",className:"myClassname",display:"initial",position:"relative",title:"Embedded Content"})});let f$=Re.div`
+`,c$={marginTop:"15px",textAlign:"center"};const f$=()=>b.jsxs(u$,{children:[b.jsx(l$,{url:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13430.028671792063!2d-117.14166701876597!3d32.699148489003534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9530bfa457471%3A0xc0c0d967e82d185c!2sJack%20in%20the%20Box!5e0!3m2!1sen!2sus!4v1730253946549!5m2!1sen!2sus",width:"100%",height:"400px",id:"myId",className:"myClassname",display:"initial",position:"relative",title:"Embedded Content"}),b.jsx("p",{style:c$,children:"Estamos ubicados a 8 minutos de la frontera."})]});let d$=Re.div`
     display: flex;
     flex-direction: column;
-`,d$=Re.div`
+`,p$=Re.div`
     border-top: solid;
     height: 50px;
     text-align: center;
@@ -155,4 +155,4 @@ object-assign
 `;Re.div`
     border-top: solid;
     
-`;const p$=()=>b.jsx(f$,{children:b.jsx(d$,{children:"Horas De Negocio"})});mg(document.getElementById("root")).render(b.jsxs(S.StrictMode,{children:[b.jsx(q2,{}),b.jsx(t$,{}),b.jsx(vk,{}),b.jsx(Y2,{}),b.jsx(c$,{}),b.jsx(p$,{})]}));
+`;const h$=()=>b.jsx(d$,{children:b.jsx(p$,{children:"Horas De Negocio"})});mg(document.getElementById("root")).render(b.jsxs(S.StrictMode,{children:[b.jsx(q2,{}),b.jsx(t$,{}),b.jsx(vk,{}),b.jsx(Y2,{}),b.jsx(f$,{}),b.jsx(h$,{})]}));
