@@ -85,7 +85,7 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
 `,M2=dn.p`
     text-align: center;
 `,z2={color:"#333333",fontFamily:"Roboto",fontWeight:"700"},B2={color:"#333333",margin:"auto",width:"90vw"},F2=dn.div`
-    background-color: #68b684;
+    background-color: #00c49a;
     /* border: solid;
     border-color: #333333; */
     border-radius: 50px;
