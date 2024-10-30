@@ -142,7 +142,7 @@ object-assign
     width: 90%;
     margin: auto;
     margin-top: 30px;
-`,f3={fontFamily:"Roboto",marginTop:"15px",textAlign:"center"};const d3=()=>T.jsxs(c3,{children:[T.jsx(u3,{url:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13430.028671792063!2d-117.14166701876597!3d32.699148489003534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9530bfa457471%3A0xc0c0d967e82d185c!2sJack%20in%20the%20Box!5e0!3m2!1sen!2sus!4v1730253946549!5m2!1sen!2sus",width:"100%",height:"400px",id:"myId",className:"myClassname",display:"initial",position:"relative",title:"Embedded Content"}),T.jsx("p",{style:f3,children:"Estamos ubicados a 8 minutos de la frontera."})]});let p3=Te.div`
+`,f3={color:"#333333",fontFamily:"Roboto",marginTop:"15px",textAlign:"center"};const d3=()=>T.jsxs(c3,{children:[T.jsx(u3,{url:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13430.028671792063!2d-117.14166701876597!3d32.699148489003534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9530bfa457471%3A0xc0c0d967e82d185c!2sJack%20in%20the%20Box!5e0!3m2!1sen!2sus!4v1730253946549!5m2!1sen!2sus",width:"100%",height:"400px",id:"myId",className:"myClassname",display:"initial",position:"relative",title:"Embedded Content"}),T.jsx("p",{style:f3,children:"Estamos ubicados a 8 minutos de la frontera."})]});let p3=Te.div`
     display: flex;
     color: '#333333';
     flex-direction: column;
@@ -173,5 +173,7 @@ object-assign
     padding: 0 30px 0 30px;
     
 `,Hl=Te.div`
+    cursor: pointer;
     font-size: 24px;
+
 `;const v3=()=>T.jsxs(p3,{children:[T.jsxs(h3,{children:["HORAS DE NEGOCIO",T.jsx(Hl,{children:"+"})]}),T.jsxs(m3,{children:["IDIOMAS HABLADOS",T.jsx(Hl,{children:"+"})]}),T.jsxs(g3,{children:["SEGUROS DENTALES ACEPTADOS",T.jsx(Hl,{children:"+"})]})]});gg(document.getElementById("root")).render(T.jsxs(S.StrictMode,{children:[T.jsx(J2,{}),T.jsx(n3,{}),T.jsx(yk,{}),T.jsx(X2,{}),T.jsx(d3,{}),T.jsx(v3,{})]}));
