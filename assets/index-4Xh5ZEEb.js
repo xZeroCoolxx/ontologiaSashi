@@ -115,23 +115,14 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     margin: auto;
     margin-top: 20px;
     width: 90%;
-`,Y2=Re.div`
-    display: flex;
-    flex-direction: column;
-`;Re.div`
-    
-`;Re.div`
-    
-`;Re.div`
-    
-`;const X2=()=>b.jsxs(M2,{children:[b.jsxs(z2,{children:[b.jsx("h1",{style:B2,children:"Dentistas De Confianza De Tijuana"}),b.jsx("p",{style:F2,children:"Con la confianza de su comunidad, brindamos el tratamiento dental que necesita para una sonrisa más saludable."}),b.jsx(W2,{children:"Programe Su Visita"}),b.jsxs("p",{style:U2,children:[b.jsx(D2,{}),"123-456-7890"]})]}),b.jsx(L2,{src:"https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}),b.jsxs(H2,{children:[b.jsxs(V2,{children:[b.jsx("img",{style:K2,src:"https://plus.unsplash.com/premium_photo-1664475450083-5c9eef17a191?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}),b.jsx(G2,{children:"Odontologa Sashi"})]}),b.jsx(Q2,{children:'"Mi enfoque como profesional de la salud es ver la salud bucal de mis pacientes como una parte integral de su bienestar general. Me dedico a educar a mis pacientes y a utilizar técnicas dentales modernas en un entorno afectuoso y compasivo para garantizar la mejor experiencia dental posible."'})]}),b.jsx(Y2,{})]});let Z2=Re.div`
+`;const Y2=()=>b.jsxs(M2,{children:[b.jsxs(z2,{children:[b.jsx("h1",{style:B2,children:"Dentistas De Confianza De Tijuana"}),b.jsx("p",{style:F2,children:"Con la confianza de su comunidad, brindamos el tratamiento dental que necesita para una sonrisa más saludable."}),b.jsx(W2,{children:"Programe Su Visita"}),b.jsxs("p",{style:U2,children:[b.jsx(D2,{}),"123-456-7890"]})]}),b.jsx(L2,{src:"https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}),b.jsxs(H2,{children:[b.jsxs(V2,{children:[b.jsx("img",{style:K2,src:"https://plus.unsplash.com/premium_photo-1664475450083-5c9eef17a191?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}),b.jsx(G2,{children:"Odontologa Sashi"})]}),b.jsx(Q2,{children:'"Mi enfoque como profesional de la salud es ver la salud bucal de mis pacientes como una parte integral de su bienestar general. Me dedico a educar a mis pacientes y a utilizar técnicas dentales modernas en un entorno afectuoso y compasivo para garantizar la mejor experiencia dental posible."'})]})]});let X2=Re.div`
     background-color: #000022;
     color: #F7F7F7;
     font-size: 16px;
     font-weight: 500;
     padding-top: 15px;
     text-align: center;
-`,q2={textDecoration:"underline",color:"#2966ff",cursor:"pointer"};const J2=()=>b.jsxs(Z2,{children:["¡Aprovecha al máximo tus beneficios dentales!",b.jsx("br",{}),b.jsx("a",{style:q2,children:"¡Programe su visita hoy!"})]});let e$=Re.div`
+`,Z2={backgroundColor:"#000022",textDecoration:"underline",color:"#2966ff",cursor:"pointer"};const q2=()=>b.jsxs(X2,{children:["¡Aprovecha al máximo tus beneficios dentales!",b.jsx("br",{}),b.jsx("a",{style:Z2,children:"¡Programe su visita hoy!"})]});let J2=Re.div`
     background-color: #3a606e;
     color: #F7F7F7;
     font-size: 14px;
@@ -141,13 +132,26 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     top: 0; */
     text-align: center;
     /* z-index: 1000;   */
-`,t$={};const n$=()=>b.jsxs(e$,{children:[b.jsx(I2,{style:t$}),"1234 Mission Center Rd Ste 500, San Diego, CA"]});/*
+`,e$={backgroundColor:"#3a606e"};const t$=()=>b.jsxs(J2,{children:[b.jsx(I2,{style:e$}),"1234 Mission Center Rd Ste 500, San Diego, CA"]});/*
 object-assign
 (c) Sindre Sorhus
 @license MIT
-*/var th=Object.getOwnPropertySymbols,r$=Object.prototype.hasOwnProperty,o$=Object.prototype.propertyIsEnumerable;function i$(e){if(e==null)throw new TypeError("Object.assign cannot be called with null or undefined");return Object(e)}function a$(){try{if(!Object.assign)return!1;var e=new String("abc");if(e[5]="de",Object.getOwnPropertyNames(e)[0]==="5")return!1;for(var t={},n=0;n<10;n++)t["_"+String.fromCharCode(n)]=n;var r=Object.getOwnPropertyNames(t).map(function(i){return t[i]});if(r.join("")!=="0123456789")return!1;var o={};return"abcdefghijklmnopqrst".split("").forEach(function(i){o[i]=i}),Object.keys(Object.assign({},o)).join("")==="abcdefghijklmnopqrst"}catch{return!1}}var s$=a$()?Object.assign:function(e,t){for(var n,r=i$(e),o,i=1;i<arguments.length;i++){n=Object(arguments[i]);for(var a in n)r$.call(n,a)&&(r[a]=n[a]);if(th){o=th(n);for(var s=0;s<o.length;s++)o$.call(n,o[s])&&(r[o[s]]=n[o[s]])}}return r};const l$=fo(s$),u$=({url:e,allowFullScreen:t,position:n,display:r,height:o,width:i,overflow:a,styles:s,onLoad:l,onMouseOver:u,onMouseOut:c,scrolling:f,id:d,frameBorder:y,ariaHidden:v,sandbox:w,allow:$,className:g,title:h,ariaLabel:m,ariaLabelledby:x,name:E,target:k,loading:C,importance:T,referrerpolicy:j,allowpaymentrequest:p,src:P,key:A})=>{const _=l$({src:P||e,target:k||null,style:{position:n||null,display:r||"initial",overflow:a||null},scrolling:f||null,allowpaymentrequest:p||null,importance:T||null,sandbox:w&&[...w].join(" ")||null,loading:C||null,styles:s||null,name:E||null,className:g||null,allowFullScreen:"allowFullScreen",referrerpolicy:j||null,title:h||null,allow:$||null,id:d||null,"aria-labelledby":x||null,"aria-hidden":v||null,"aria-label":m||null,width:i||null,height:o||null,onLoad:l||null,onMouseOver:u||null,onMouseOut:c||null,key:A||"iframe"});let L=Object.create(null);for(let z of Object.keys(_))_[z]!=null&&(L[z]=_[z]);for(let z of Object.keys(L.style))L.style[z]==null&&delete L.style[z];if(L.styles)for(let z of Object.keys(L.styles))L.styles.hasOwnProperty(z)&&(L.style[z]=L.styles[z]),Object.keys(L.styles).pop()==z&&delete L.styles;if(t)if("allow"in L){const z=L.allow.replace("fullscreen","");L.allow=`fullscreen ${z.trim()}`.trim()}else L.allow="fullscreen";return y>=0&&(L.style.hasOwnProperty("border")||(L.style.border=y)),ce.createElement("iframe",Object.assign({},L))};let c$=Re.div`
+*/var th=Object.getOwnPropertySymbols,n$=Object.prototype.hasOwnProperty,r$=Object.prototype.propertyIsEnumerable;function o$(e){if(e==null)throw new TypeError("Object.assign cannot be called with null or undefined");return Object(e)}function i$(){try{if(!Object.assign)return!1;var e=new String("abc");if(e[5]="de",Object.getOwnPropertyNames(e)[0]==="5")return!1;for(var t={},n=0;n<10;n++)t["_"+String.fromCharCode(n)]=n;var r=Object.getOwnPropertyNames(t).map(function(i){return t[i]});if(r.join("")!=="0123456789")return!1;var o={};return"abcdefghijklmnopqrst".split("").forEach(function(i){o[i]=i}),Object.keys(Object.assign({},o)).join("")==="abcdefghijklmnopqrst"}catch{return!1}}var a$=i$()?Object.assign:function(e,t){for(var n,r=o$(e),o,i=1;i<arguments.length;i++){n=Object(arguments[i]);for(var a in n)n$.call(n,a)&&(r[a]=n[a]);if(th){o=th(n);for(var s=0;s<o.length;s++)r$.call(n,o[s])&&(r[o[s]]=n[o[s]])}}return r};const s$=fo(a$),l$=({url:e,allowFullScreen:t,position:n,display:r,height:o,width:i,overflow:a,styles:s,onLoad:l,onMouseOver:u,onMouseOut:c,scrolling:f,id:d,frameBorder:y,ariaHidden:v,sandbox:w,allow:$,className:g,title:h,ariaLabel:m,ariaLabelledby:x,name:E,target:k,loading:C,importance:T,referrerpolicy:j,allowpaymentrequest:p,src:P,key:A})=>{const _=s$({src:P||e,target:k||null,style:{position:n||null,display:r||"initial",overflow:a||null},scrolling:f||null,allowpaymentrequest:p||null,importance:T||null,sandbox:w&&[...w].join(" ")||null,loading:C||null,styles:s||null,name:E||null,className:g||null,allowFullScreen:"allowFullScreen",referrerpolicy:j||null,title:h||null,allow:$||null,id:d||null,"aria-labelledby":x||null,"aria-hidden":v||null,"aria-label":m||null,width:i||null,height:o||null,onLoad:l||null,onMouseOver:u||null,onMouseOut:c||null,key:A||"iframe"});let L=Object.create(null);for(let z of Object.keys(_))_[z]!=null&&(L[z]=_[z]);for(let z of Object.keys(L.style))L.style[z]==null&&delete L.style[z];if(L.styles)for(let z of Object.keys(L.styles))L.styles.hasOwnProperty(z)&&(L.style[z]=L.styles[z]),Object.keys(L.styles).pop()==z&&delete L.styles;if(t)if("allow"in L){const z=L.allow.replace("fullscreen","");L.allow=`fullscreen ${z.trim()}`.trim()}else L.allow="fullscreen";return y>=0&&(L.style.hasOwnProperty("border")||(L.style.border=y)),ce.createElement("iframe",Object.assign({},L))};let u$=Re.div`
     
     width: 90%;
     margin: auto;
     margin-top: 30px;
-`;const f$=()=>b.jsx(c$,{children:b.jsx(u$,{url:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13430.028671792063!2d-117.14166701876597!3d32.699148489003534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9530bfa457471%3A0xc0c0d967e82d185c!2sJack%20in%20the%20Box!5e0!3m2!1sen!2sus!4v1730253946549!5m2!1sen!2sus",width:"100%",height:"400px",id:"myId",className:"myClassname",display:"initial",position:"relative",title:"Embedded Content"})});mg(document.getElementById("root")).render(b.jsxs(S.StrictMode,{children:[b.jsx(J2,{}),b.jsx(n$,{}),b.jsx(vk,{}),b.jsx(X2,{}),b.jsx(f$,{})]}));
+`;const c$=()=>b.jsx(u$,{children:b.jsx(l$,{url:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13430.028671792063!2d-117.14166701876597!3d32.699148489003534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9530bfa457471%3A0xc0c0d967e82d185c!2sJack%20in%20the%20Box!5e0!3m2!1sen!2sus!4v1730253946549!5m2!1sen!2sus",width:"100%",height:"400px",id:"myId",className:"myClassname",display:"initial",position:"relative",title:"Embedded Content"})});let f$=Re.div`
+    display: flex;
+    flex-direction: column;
+`,d$=Re.div`
+    border-top: solid;
+    height: 50px;
+    text-align: center;
+`;Re.div`
+    border-top: solid;
+    
+`;Re.div`
+    border-top: solid;
+    
+`;const p$=()=>b.jsx(f$,{children:b.jsx(d$,{children:"Horas De Negocio"})});mg(document.getElementById("root")).render(b.jsxs(S.StrictMode,{children:[b.jsx(q2,{}),b.jsx(t$,{}),b.jsx(vk,{}),b.jsx(Y2,{}),b.jsx(c$,{}),b.jsx(p$,{})]}));
