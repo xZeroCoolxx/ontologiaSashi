@@ -83,6 +83,7 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     color: #F7F7F7;
     font-size: 16px;
     font-weight: 500;
+    padding-top: 15px;
     text-align: center;
 `,L$={textDecoration:"underline",color:"#2966ff",cursor:"pointer"};const M$=()=>R.jsxs(I$,{children:["Make the most of your dental benefits!",R.jsx("br",{}),R.jsx("a",{style:L$,children:"Schedule your visit today!"})]}),z$=D$(R.jsx("path",{d:"M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7m0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5"}),"Place");let B$=mo.div`
     background-color: #3a606e;
