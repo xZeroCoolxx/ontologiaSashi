@@ -131,7 +131,7 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     top: 0;
     text-align: center;
     z-index: 1000;  
-`,e$={};const t$=()=>b.jsxs(J2,{children:[b.jsx(I2,{style:e$}),"1234 Mission Center Rd Ste 500, San Diego, CA 92108"]});/*
+`,e$={};const t$=()=>b.jsxs(J2,{children:[b.jsx(I2,{style:e$}),"1234 Mission Center Rd Ste 500, San Diego, CA"]});/*
 object-assign
 (c) Sindre Sorhus
 @license MIT
