@@ -106,13 +106,13 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     align-items: center;
     display: flex;
     gap: 20px;
-`,V2={borderRadius:"75px",width:"100px"},K2=pt.h3`
+`,V2={borderRadius:"75px",width:"150px"},K2=pt.h3`
     
 `,G2=pt.p`
     margin: auto;
     margin-top: 20px;
     width: 90%;
-`;const Q2=()=>P.jsxs(I2,{children:[P.jsxs(L2,{children:[P.jsx("h1",{style:z2,children:"Dentistas De Confianza De Tijuana"}),P.jsx("p",{style:B2,children:"Con la confianza de su comunidad, brindamos el tratamiento dental que necesita para una sonrisa más saludable."}),P.jsx(F2,{children:"Programe Su Visita"}),P.jsxs("p",{style:W2,children:[P.jsx(j2,{}),"123-456-7890"]})]}),P.jsx(M2,{src:"https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}),P.jsxs(U2,{children:[P.jsxs(H2,{children:[P.jsx("img",{style:V2,src:"https://preview.redd.it/is-there-a-sniper-default-pfp-that-someone-made-v0-78az45pd9f6c1.jpg?width=396&format=pjpg&auto=webp&s=5be4618605b25e0546d72dff52a7b897c3d4e1d4"}),P.jsx(K2,{children:"Odontologa Sashi"})]}),P.jsx(G2,{children:'"Mi enfoque como profesional de la salud es ver la salud bucal de mis pacientes como una parte integral de su bienestar general. Me dedico a educar a mis pacientes y a utilizar técnicas dentales modernas en un entorno afectuoso y compasivo para garantizar la mejor experiencia dental posible."'})]})]});let Y2=pt.div`
+`;const Q2=()=>P.jsxs(I2,{children:[P.jsxs(L2,{children:[P.jsx("h1",{style:z2,children:"Dentistas De Confianza De Tijuana"}),P.jsx("p",{style:B2,children:"Con la confianza de su comunidad, brindamos el tratamiento dental que necesita para una sonrisa más saludable."}),P.jsx(F2,{children:"Programe Su Visita"}),P.jsxs("p",{style:W2,children:[P.jsx(j2,{}),"123-456-7890"]})]}),P.jsx(M2,{src:"https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}),P.jsxs(U2,{children:[P.jsxs(H2,{children:[P.jsx("img",{style:V2,src:"https://plus.unsplash.com/premium_photo-1664475450083-5c9eef17a191?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}),P.jsx(K2,{children:"Odontologa Sashi"})]}),P.jsx(G2,{children:'"Mi enfoque como profesional de la salud es ver la salud bucal de mis pacientes como una parte integral de su bienestar general. Me dedico a educar a mis pacientes y a utilizar técnicas dentales modernas en un entorno afectuoso y compasivo para garantizar la mejor experiencia dental posible."'})]})]});let Y2=pt.div`
     background-color: #000022;
     color: #F7F7F7;
     font-size: 16px;
