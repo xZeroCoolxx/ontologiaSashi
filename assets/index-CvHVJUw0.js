@@ -148,6 +148,7 @@ object-assign
     flex-direction: column;
     font-family: 'Roboto';
     font-size: 16px;
+    margin-top: 100px;
 `,h3=Te.div`
     align-items: center;
     border-top: 1px solid #afafaf;
