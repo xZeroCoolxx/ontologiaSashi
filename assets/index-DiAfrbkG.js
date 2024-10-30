@@ -129,10 +129,10 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
     font-size: 14px;
     font-weight: 600;
     height: 26px;
-    /* position: sticky;
-    top: 0; */
+    position: sticky;
+    top: 0;
     text-align: center;
-    /* z-index: 1000;   */
+    z-index: 1000;  
 `,e$={backgroundColor:"#3a606e"};const t$=()=>b.jsxs(J2,{children:[b.jsx(I2,{style:e$}),"1234 Mission Center Rd Ste 500, San Diego, CA"]});/*
 object-assign
 (c) Sindre Sorhus
