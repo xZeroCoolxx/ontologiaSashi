@@ -50,7 +50,7 @@ Error generating stack: `+i.message+`
   display: flex;
   flex-direction: column;
   font-weight: 500;
-  height: 100px;
+  height: 70px;
   
   margin: auto;
   width: 100vw;
