@@ -191,6 +191,7 @@ object-assign
 
 `,x2={width:"90vw"},rh=ve.p`
     color: '#333333';
+    font-size: 18px;
     margin-top: 50px;
     width: 100%;
 `,S2={color:"#333333",fontSize:"40px",fontWeight:"600",marginTop:"30px",textAlign:"center"},C2={color:"#333333",fontSize:"38px",fontWeight:"600",marginTop:"30px",textAlign:"center"},k2=ve.div`
