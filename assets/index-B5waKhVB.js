@@ -180,7 +180,6 @@ object-assign
     font-weight: 400;
 `;const v3=()=>O.jsxs(p3,{children:[O.jsxs(h3,{children:["HORAS DE NEGOCIO",O.jsx(Hl,{children:"+"})]}),O.jsxs(m3,{children:["IDIOMAS HABLADOS",O.jsx(Hl,{children:"+"})]}),O.jsxs(g3,{children:["SEGUROS DENTALES ACEPTADOS",O.jsx(Hl,{children:"+"})]})]});let y3=xe.div`
     align-items: center;
-    border: solid;
     display: flex;
     flex-direction: column;    
     height: auto;
