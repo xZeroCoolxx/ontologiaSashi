@@ -193,6 +193,14 @@ object-assign
     color: '#333333';
     margin-top: 50px;
     width: 100%;
-`,S2={color:"#333333",fontSize:"40px",fontWeight:"600",marginTop:"30px",textAlign:"center"},C2={color:"#333333",fontSize:"38px",fontWeight:"600",marginTop:"30px",textAlign:"center"};ve.div`
-    
-`;const k2=()=>O.jsxs(w2,{children:[O.jsx("img",{style:x2,src:"https://images.unsplash.com/photo-1527368746281-798b65e1ac6e?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}),O.jsx("h2",{style:S2,children:"Una Sonrisa Más Brillante Te Espera"}),O.jsx(rh,{children:"¡Los dentistas de Odontológica Sashi te harán sonreír! Nos enorgullecemos de ofrecer odontología de la más alta calidad.  Tu comodidad será nuestra prioridad durante toda tu visita. Nuestro equipo adoptará un enfoque holístico y integral en tu tratamiento; muchos problemas médicos serios se pueden prevenir manteniendo una salud bucal óptima."}),O.jsx("h2",{style:C2,children:"Valoramos mucho nuestro servicio"}),O.jsx(rh,{children:"Al elegir Mission Valley Dentists, entras en una nueva era de excelencia dental con nuestra tecnología avanzada y comprobada."})]});vg(document.getElementById("root")).render(O.jsxs(S.StrictMode,{children:[O.jsx(e2,{}),O.jsx(r2,{}),O.jsx(wk,{}),O.jsx(q3,{}),O.jsx(p2,{}),O.jsx(y2,{}),O.jsx(k2,{})]}));
+`,S2={color:"#333333",fontSize:"40px",fontWeight:"600",marginTop:"30px",textAlign:"center"},C2={color:"#333333",fontSize:"38px",fontWeight:"600",marginTop:"30px",textAlign:"center"},k2=ve.div`
+    align-items: center;
+    border: solid;
+    border-color: #3a606e;
+    border-radius: 50px;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    margin-top: 40px;
+    width: 200px;
+`;const E2=()=>O.jsxs(w2,{children:[O.jsx("img",{style:x2,src:"https://images.unsplash.com/photo-1527368746281-798b65e1ac6e?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}),O.jsx("h2",{style:S2,children:"Una Sonrisa Más Brillante Te Espera"}),O.jsx(rh,{children:"¡Los dentistas de Odontológica Sashi te harán sonreír! Nos enorgullecemos de ofrecer odontología de la más alta calidad.  Tu comodidad será nuestra prioridad durante toda tu visita. Nuestro equipo adoptará un enfoque holístico y integral en tu tratamiento; muchos problemas médicos serios se pueden prevenir manteniendo una salud bucal óptima."}),O.jsx("h2",{style:C2,children:"Valoramos mucho nuestro servicio"}),O.jsx(rh,{children:"Al elegir Mission Valley Dentists, entras en una nueva era de excelencia dental con nuestra tecnología avanzada y comprobada."}),O.jsx(k2,{children:"Servicios"})]});vg(document.getElementById("root")).render(O.jsxs(S.StrictMode,{children:[O.jsx(e2,{}),O.jsx(r2,{}),O.jsx(wk,{}),O.jsx(q3,{}),O.jsx(p2,{}),O.jsx(y2,{}),O.jsx(E2,{})]}));
